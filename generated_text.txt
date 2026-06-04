@@ -1,0 +1,1 @@
+A multigraph is a specific type of graph network that allows for parallel edges—meaning multiple distinct edges can connect the exact same pair of vertices. Unlike standard graphs, a multigraph can model scenarios where two nodes share more than one connection or relationship simultaneously
