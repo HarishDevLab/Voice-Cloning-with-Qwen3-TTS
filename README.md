@@ -22,7 +22,8 @@ A Google Colab-based voice cloning project powered by **Qwen3-TTS**. This notebo
 ##  Reference Files
 
 
-**Input Audio:** [Input_Audio](https://raw.githubusercontent.com/HarishDevLab/Voice-Cloning-with-Qwen3-TTS/main/input_audio.mp3)
+**Input Audio:** 
+<video src="https://raw.githubusercontent.com/HarishDevLab/Voice-Cloning-with-Qwen3-TTS/main/input_audio.mp3" controls width="100%" height="40"></video>
 
 **Audio Transcribed Text**
 
