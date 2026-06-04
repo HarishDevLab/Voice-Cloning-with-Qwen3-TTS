@@ -22,8 +22,7 @@ A Google Colab-based voice cloning project powered by **Qwen3-TTS**. This notebo
 ##  Reference Files
 
 
-**Input Audio:** 
-<video src="https://raw.githubusercontent.com/HarishDevLab/Voice-Cloning-with-Qwen3-TTS/main/input_audio.mp3" controls width="100%" height="40"></video>
+**Input Audio:**  [Input_Audio](https://raw.githubusercontent.com/HarishDevLab/Voice-Cloning-with-Qwen3-TTS/main/input_audio.mp3)
 
 **Audio Transcribed Text**
 
@@ -31,18 +30,18 @@ A Google Colab-based voice cloning project powered by **Qwen3-TTS**. This notebo
 
 > From quick tips and smart tricks
 
-**File:** [Audio Transcribed Text.txt](https://raw.githubusercontent.com/HarishDevLab/Voice-Cloning-with-Qwen3-TTS/main/audio_transcribed_text.txt)
+**File:** [Audio Transcribed Text](https://raw.githubusercontent.com/HarishDevLab/Voice-Cloning-with-Qwen3-TTS/main/audio_transcribed_text.txt)
 
 **Text Converted to Audio**
 
 >A multigraph is a specific type of graph network that allows for parallel edges—meaning multiple distinct edges can connect the exact same pair of vertices. Unlike standard graphs, a multigraph can model scenarios where two nodes share more than one connection or relationship simultaneously
 
-**File:** [Input Text.txt](https://raw.githubusercontent.com/HarishDevLab/Voice-Cloning-with-Qwen3-TTS/main/input_text.txt)
+**File:** [Input Text](https://raw.githubusercontent.com/HarishDevLab/Voice-Cloning-with-Qwen3-TTS/main/input_text.txt)
 
 
 ### Generated Output Audio
 
-**Generated Audio:** [generated_audio.wav](https://raw.githubusercontent.com/HarishDevLab/Voice-Cloning-with-Qwen3-TTS/main/output_audio.wav)
+**Generated Audio:** [Generated_Audio](https://raw.githubusercontent.com/HarishDevLab/Voice-Cloning-with-Qwen3-TTS/main/output_audio.wav)
 
 ---
 
